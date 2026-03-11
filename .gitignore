@@ -2,3 +2,7 @@
 *.ip_user_files/
 *.hw/
 *.cahcle/
+*.str
+*.log
+*.jou
+*.Xil/
